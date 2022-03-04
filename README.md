@@ -1,4 +1,4 @@
-- 👋 #Hi, I’m Lucas Allen, @LAllenHarvy99.
+- 👋 # Hi, I’m Lucas Allen, @LAllenHarvy99.
 - 👀 I’m interested in learning C++, Java, and Python.
 - 🌱 I’m currently learning C++ through CS50.
 - 💞️ I’m looking to collaborate on developing a sold foundation of coding knowledge and experience.
